@@ -1,0 +1,25 @@
+Algoritmo Portugol: Levantando da cama de manhã
+
+INICIO
+	1. Abrir os olhos devagar;
+	2. Esticar a mão e move-lá pela cama até encontrar o celular;
+	3. Pegar o celular;
+	4. Destravar o celular;
+	5. Verificar que horas são;
+	6. Se estiver na hora de levantar;
+		1. Colocar o celular na escrivaninha;
+		2. Espreguiçar;
+		3. Fazer oração;
+		4. Sentar na cama, de forma que os pés toquem o chão;
+		5. Proucurar os chinelos;
+		6. Calçar os chinelos;
+		7. Levantar da cama;
+	7. Se não estiver na hora de levantar;
+		1. Colocar o celular na escrivaninha;
+		2. Verificar se a coberta esta bagunçada;
+		3. Se a coberta estiver bagunçada;
+			1. Arrumar a coberta;
+		4. Cobrir com a coberta;
+		5. Fechar os olhos;
+		6. Dormir novamente;
+FIM
